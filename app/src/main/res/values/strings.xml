@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Android_HomeWork_4</string>
+    <string name="app_name">Homework 4</string>
+    <string name="hintName">Имя</string>
+    <string name="hintPhone">Телефон</string>
+    <string name="gender">Пол</string>
+    <string name="male">М</string>
+    <string name="female">Ж</string>
+    <string name="getNotifications">Получать уведомления</string>
+    <string name="aboutAutorization">Об авторизации на устройстве</string>
+    <string name="aboutNews">О новинках и предложениях</string>
+    <string name="scoresText">Баллы</string>
+    <string name="save">Сохранить</string>
+    <string name="messageSaved">Изменения сохранены</string>
 </resources>
